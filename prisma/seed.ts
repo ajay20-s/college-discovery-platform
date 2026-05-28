@@ -181,7 +181,7 @@ ranking: "#7 Private Engineering",
         description:
           "Top private university with international exposure.",
         courses: "B.Tech, MBA, MBBS",
-       image: "/colleges/manipal.jpg",
+       image: "/colleges/manipal2.jpg",
        averagePackage: "₹18 LPA",
 highestPackage: "₹40 LPA",
 placementRate: "92%",
